@@ -1,3 +1,5 @@
+# contains python basic
+
 print("hello python")
 
 # this is  comment in python
